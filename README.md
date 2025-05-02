@@ -16,7 +16,12 @@ As Ash would say, "I choose you, data science!". It is time to leave Pallet Town
 ![pallet town](https://github.com/shope101510/Pika-Choose/blob/main/images/pallet_town.jpg)
 
 ## Code
+
 You can find the notebook containing the code [here](https://github.com/shope101510/Pika-Choose/blob/main/pokemon_notebook.ipynb)
+
+## Data
+
+The data used in this project comes from a Kaggle dataset called "The All Pokémon Dataset." This dataset includes 898 Pokémon, starting with the first-generation Bulbasaur and ending with the legendary eighth-generation Psychic/Ghost type, Calyrex Shadow Rider. Each row in the dataset represents a different Pokémon and contains a total of 44 variables. The primary outcome I will be trying to predict is the "Legendary" status. Many of the columns in this dataset correspond to the individual Pokémon’s weaknesses and resistances against different types.
 
 
 
