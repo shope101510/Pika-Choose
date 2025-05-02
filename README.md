@@ -16,7 +16,7 @@ As Ash would say, "I choose you, data science!". It is time to leave Pallet Town
 ![pallet town](https://github.com/shope101510/Pika-Choose/blob/main/images/pallet_town.jpg)
 
 ## Code
-You can find the notebook containing the code [here](
+You can find the notebook containing the code [here](https://github.com/shope101510/Pika-Choose/blob/main/pokemon_notebook.ipynb)
 
 
 
