@@ -8,6 +8,6 @@ So, of course, when I was looking for a data science project, there was really o
 The purpose of this notebook is to explore some Pokémon data and try to gain some interesting insights, such as the number of Pokémon by type, examining height and weight and exploring how these correlate with type, and analysing how final evolution status affects stats. Additionally, I will try to predict if a Pokémon is legendary or a final evolution using machine learning.
 
 As Ash would say, "I choose you, data science!". It is time to leave Pallet Town and explore... 
-!Pallet Town.jpg
+
 
 
