@@ -1,6 +1,8 @@
 # Pika-Choose
 ## Predicting Legendary Pokémon with Machine Learning
 
+![pikachu](https://github.com/shope101510/Pika-Choose/blob/main/images/pikachu.png)
+
 Ever since I was a young boy, I have been obsessed with Pokémon. From the trading cards to the TV shows, and of course, the video games. My first memory of playing video games was sitting up at night playing Pokémon Yellow (underneath the duvet with a torch in case my mum walked in and saw I wasn't sleeping). From my little Game Boy Color to now playing it on my Nintendo Switch, Pokémon has certainly come a long way. However, I still find it as comforting, endearing, exciting, and fun as ever.
 
 So, of course, when I was looking for a data science project, there was really only ever going to be one option.
