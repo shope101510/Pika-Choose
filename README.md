@@ -9,7 +9,7 @@ The purpose of this notebook is to explore some Pokémon data and try to gain so
 
 As Ash would say, "I choose you, data science!". It is time to leave Pallet Town and explore... 
 
-![pallet town]: (https://github.com/shope101510/Pika-Choose/blob/main/images/pallet_town.jpg)
+![pallet town](https://github.com/shope101510/Pika-Choose/blob/main/images/pallet_town.jpg)
 
 
 
